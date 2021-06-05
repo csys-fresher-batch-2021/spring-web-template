@@ -1,0 +1,1 @@
+heroku deploy:war target/app.war --app libraryapp-micheal -e HEROKU_API_KEY b88412a7-ebc0-41cc-b6f2-5a056dc3cfbf spring.datasource.driver-class-name org.postgresql.Driver spring.datasource.username postgres spring.datasource.password postgres
